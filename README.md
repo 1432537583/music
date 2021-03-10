@@ -1,7 +1,7 @@
 # music
-一个仿网易云音乐网站的项目
-页面展示图如下
-后台登录页面如下
+ 一个仿网易云音乐网站的项目
+## 页面展示图如下
+### 后台登录页面如下
 ![Image text](https://github.com/1432537583/img/blob/main/img/1.png)
 后台首页页面：
 ![Image text](https://github.com/1432537583/img/blob/main/img/3.png)
